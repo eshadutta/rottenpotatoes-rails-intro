@@ -1,0 +1,2 @@
+Github URL: https://github.com/eshadutta/rottenpotatoes-rails-intro
+Heruko app URL: http://floating-forest-72459.herokuapp.com
